@@ -1,0 +1,10 @@
+C:\Users\Rafał\Desktop\studia\semestr V\POD\lab\lab8\VisualCryptoTest\VisualCryptoTest\bin\Debug\VisualCryptoTest.exe.config
+C:\Users\Rafał\Desktop\studia\semestr V\POD\lab\lab8\VisualCryptoTest\VisualCryptoTest\bin\Debug\VisualCryptoTest.exe
+C:\Users\Rafał\Desktop\studia\semestr V\POD\lab\lab8\VisualCryptoTest\VisualCryptoTest\bin\Debug\VisualCryptoTest.pdb
+C:\Users\Rafał\Desktop\studia\semestr V\POD\lab\lab8\VisualCryptoTest\VisualCryptoTest\obj\Debug\VisualCryptoTest.csprojAssemblyReference.cache
+C:\Users\Rafał\Desktop\studia\semestr V\POD\lab\lab8\VisualCryptoTest\VisualCryptoTest\obj\Debug\VisualCryptoTest.Form.resources
+C:\Users\Rafał\Desktop\studia\semestr V\POD\lab\lab8\VisualCryptoTest\VisualCryptoTest\obj\Debug\VisualCryptoTest.Properties.Resources.resources
+C:\Users\Rafał\Desktop\studia\semestr V\POD\lab\lab8\VisualCryptoTest\VisualCryptoTest\obj\Debug\VisualCryptoTest.csproj.GenerateResource.cache
+C:\Users\Rafał\Desktop\studia\semestr V\POD\lab\lab8\VisualCryptoTest\VisualCryptoTest\obj\Debug\VisualCryptoTest.csproj.CoreCompileInputs.cache
+C:\Users\Rafał\Desktop\studia\semestr V\POD\lab\lab8\VisualCryptoTest\VisualCryptoTest\obj\Debug\VisualCryptoTest.exe
+C:\Users\Rafał\Desktop\studia\semestr V\POD\lab\lab8\VisualCryptoTest\VisualCryptoTest\obj\Debug\VisualCryptoTest.pdb
